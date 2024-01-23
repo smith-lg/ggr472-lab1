@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lee's Palace",
+                "marker-color": "#1b2ebb",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.40943054232793,
+                    43.665372057863976
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Danforth Music Hall",
+                "marker-color": "#1b2ebb",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.35699227116429,
+                    43.67642655360439
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Horseshoe Tavern",
+                "marker-color": "#1b2ebb",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.39589072883712,
+                    43.649236092280546
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Opera House",
+                "marker-color": "#1b2ebb",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.34879627116293,
+                    43.65898688095032
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HISTORY",
+                "marker-color": "#1b2ebb",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.31375854232812,
+                    43.666761119552916
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Drake Hotel",
+                "marker-color": "#1b2ebb",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.42460654232754,
+                    43.64329664589275
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Velvet Underground",
+                "marker-color": "#1b2ebb",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.4014818343507,
+                    43.64793231161366
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Axis Club",
+                "marker-color": "#1b2ebb",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.41935154232807,
+                    43.65540088118303
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Dakota Tavern",
+                "marker-color": "#1b2ebb",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.42065445767182,
+                    43.649751592268586
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
